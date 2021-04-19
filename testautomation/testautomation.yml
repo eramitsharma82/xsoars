@@ -1,0 +1,10 @@
+commonfields:
+  id: 3e409b47-2739-4ac5-9ac9-46d0b9e6f8d4
+  version: -1
+enabled: false
+name: testautomation
+script: '-'
+subtype: python3
+system: false
+timeout: '0'
+type: python
